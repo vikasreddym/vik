@@ -1,5 +1,5 @@
 import java.util.*;
-public class Order {
+public class Order implements IOrdersService {
 
 	String itemName;
 	int accBalance;
